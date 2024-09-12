@@ -1,4 +1,4 @@
---Poker
+
 local clickDetector = script.Parent
 local doorModel = script.Parent.Parent
 
